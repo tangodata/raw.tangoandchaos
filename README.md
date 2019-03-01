@@ -1,7 +1,7 @@
 # raw.tangoandchaos
 Frozen copy of Tangoandchaos.org
 
-## Recovery Stage
+## Recovery Stage ["tangodata/raw.tangoandchaos"](https://github.com/tangodata/raw.tangoandchaos)
 Put back online the last working copy of Tangoandchaos.org
 
 - Recovered Tangoandchaos.org scraped in 2018 after the site went offline and came back.
@@ -11,12 +11,12 @@ Put back online the last working copy of Tangoandchaos.org
   - http://tangoandchaos.com
 - connect with author Rick McGarrey
 - domain tangoandchaos.org renewed
-- Github repo created at "tangodata/raw.tangoandchaos"
+- Github repo created at ["tangodata/raw.tangoandchaos"](https://github.com/tangodata/raw.tangoandchaos)
 - LFS enabled to offload FLV and MP3 (~ 1.2GB)
 - Netlify hosting enabled on https://rawtangoandchaos.netlify.com
 - welcome.jpg added to home
 
-## Drafting Stage
+## Drafting Stage ["tangodata/draft.tangoandchaos"](https://github.com/tangodata/draft.tangoandchaos)
 For the purpose of translation and maintenance, these are steps to do:
 
 - separate content (text) and layout (styles)
@@ -27,7 +27,7 @@ For the purpose of translation and maintenance, these are steps to do:
 - layout convert to a Static Site Generator
   - Jekyll (built into Github)
   - comments and addendum via plugin
-- Github repo created at "tangodata/draft.tangoandchaos"
+- Github repo created at ["tangodata/draft.tangoandchaos"](https://github.com/tangodata/draft.tangoandchaos)
   - Github pages enabled at https://tangodata.github.io/draft.tangoandchaos
 
 ## Expansion Stage
