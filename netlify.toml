@@ -6,7 +6,7 @@ ID = "rawtangoandchaos"
 
 [build]
   #base = "/"
-  #publish = "project/build-output/"
+  publish = "/source"
   #command = "echo 'default context'"
 
 #[[redirects]]
