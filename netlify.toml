@@ -23,30 +23,8 @@ ID = "rawtangoandchaos"
   # By default, redirects won't be applied if there's a file with the same 
   # path as the one defined in the `from` property. Setting `force` to `true` 
   # will make the redirect rule take precedence over any existing files.
-  force = true
+  #force = true
 
-  # Redirect from /old-path?id=123 to /new-path. Each combination of query 
-  # params needs to be defined in a separate [[redirects]] block. 
-  # More information at https://www.netlify.com/docs/redirects/#query-params
-  query = {id = ":id"}
-
-  # Redirect based on browser language, geolocation, and/or identity role.
-  conditions = {Language = ["en"], Country = ["US"]}
-
-  # Sign each request with a value defined in an environment variable
-  signed = "API_SIGNATURE_TOKEN"
-
-  # You can also define custom headers within your redirects blocks.
-  [redirects.headers]
-    X-From = "Netlify"
-    X-Api-Key = "some-api-key-string"
-
-# Role-based redirects does not have a 'to' property.
-[[redirects]]
-  from = "/gated-path"
-  status = 200
-  conditions = {Role = ["admin"]}
-  force = true
 
 # The following redirect is intended for use with most SPAs that handle
 # routing internally.
