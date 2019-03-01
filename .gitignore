@@ -9,11 +9,9 @@ jspm_packages/
 .eslintcache
 .env
 
-source/chapt_3search/3videos
-source/chapt_4music/Tangos
-source/chapt_5video/5music
-source/chapt_5video/5videos
-source/chapt_6school/6videos
-
-
+#source/chapt_3search/3_videos/
+#source/chapt_4music/Tangos/
+#source/chapt_5video/5music/
+#source/chapt_5video/5videos/
+#source/chapt_6school/6_videos/
 
