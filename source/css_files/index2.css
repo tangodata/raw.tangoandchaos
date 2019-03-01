@@ -1,12 +1,12 @@
 /* CSS Document */
-html, body, ul, ol, li, p, 
-h1, h2, h3, h4, h5, h6, 
-form, fieldset, a { 
-margin: 0; 
-padding: 0; 
-border: 0; 
+html, body, ul, ol, li, p,
+h1, h2, h3, h4, h5, h6,
+form, fieldset, a {
+margin: 0;
+padding: 0;
+border: 0;
 text-decoration: none;
-} 
+}
 body {
 	text-align: center;
 	margin: 0px;
@@ -21,7 +21,15 @@ body {
 }
 #holder {
 	width: 100%;
-	background:#FFFFFF;
+
+	background:#FFFFFF
+	 url(../image_files/welcome.jpg)
+	 no-repeat center center fixed;
+	 -webkit-background: cover;
+	 -moz-background: cover;
+	 -o-background: cover;
+	 background-size: cover;
+
 	text-align: left;
 	margin-top: 0;
 	margin-right: auto;
@@ -52,7 +60,7 @@ body {
 	padding-left: 0px;
 }
 #content {
-	background:#FFFFFF;
+	/*background:#FFFFFF;*/
 	margin-top: 0;
 	margin-right: 0;
 	margin-bottom: 0;
