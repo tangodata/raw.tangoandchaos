@@ -33,9 +33,13 @@ For the purpose of translation and maintenance, these are steps to do:
 ## Expansion Stage
 Expand the distribution of the book
 
-- create a chain to all the language translations and support / fans
-- create an eBook publishing pipeline
+- create a chain of websites
+  - to all the language translations
+  - support / fans sites
+- index of names, places, terms
+  - expanded coverage and supplementary notes
 - create better visuals / animation / videos
-- new content from Rick?
-  - more videos?
-  - more chapters?
+- new content from Rick? others?
+  - convert more videos?
+  - missing chapters?
+- create an eBook publishing pipeline
