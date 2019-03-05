@@ -8,7 +8,7 @@ function MM_CheckFlashVersion(reqVerStr,msg){
   with(navigator){
     var isIE  = (appVersion.indexOf("MSIE") != -1 && userAgent.indexOf("Opera") == -1);
     var isWin = (appVersion.toLowerCase().indexOf("win") != -1);
-    if (!isIE || !isWin){  
+    if (!isIE || !isWin){
       var flashVer = -1;
       if (plugins && plugins.length > 0){
         var desc = plugins["Shockwave Flash"] ? plugins["Shockwave Flash"].description : "";
@@ -28,13 +28,13 @@ function MM_CheckFlashVersion(reqVerStr,msg){
 
       var verArr = reqVerStr.split(",");
       var reqVer = parseFloat(verArr[0] + "." + verArr[2]);
-  
+
       if (flashVer < reqVer){
         if (confirm(msg))
           window.location = "http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash";
       }
     }
-  } 
+  }
 }
 </script>
 <link href="../css_files/chapt_5.css" rel="stylesheet" type="text/css" />
@@ -80,7 +80,7 @@ function MM_CheckFlashVersion(reqVerStr,msg){
     </embed>
   </object>
   <br />
-  The rumors are true: Teta 
+  The rumors are true: Teta
   is
   as talented as she is beautiful! </p>
 <p>&nbsp;</p>
@@ -108,7 +108,7 @@ function MM_CheckFlashVersion(reqVerStr,msg){
 <p>&nbsp;</p>
 </div>
 <img
-src="http://counter.digits.com/wc/-d/4/-h/videochapter" alt="" name="_x0000_i1033" width="0" height="1" id="_x0000_i1033"/>
+src="//counter.digits.com/wc/-d/4/-h/videochapter" alt="" name="_x0000_i1033" width="0" height="1" id="_x0000_i1033"/>
 
 
 </body>

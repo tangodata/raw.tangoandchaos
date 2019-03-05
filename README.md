@@ -9,6 +9,8 @@ Put back online the last working copy of Tangoandchaos.org
   - http://tangoandchaos.ru
   - http://en.tangoandchaos.ru
   - http://tangoandchaos.com
+  - http://www.tang-go.net/2014/09/tangoandchaos-muc-luc.html
+
 - connect with author Rick McGarrey
 - domain tangoandchaos.org renewed
 - Github repo created at ["tangodata/raw.tangoandchaos"](https://github.com/tangodata/raw.tangoandchaos)
